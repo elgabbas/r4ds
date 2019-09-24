@@ -4,5 +4,13 @@
 *_files
 _main.rds
 _book
-_main.html
+*.md
+*.html
+!ga_script.html
 search_index.json
+libs
+*.rds
+_main.*
+bookdown*
+tmp-pdfcrop-*
+figures

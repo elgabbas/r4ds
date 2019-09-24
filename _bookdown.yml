@@ -3,29 +3,40 @@ new_session: yes
 rmd_files: [
   "index.rmd",
   "intro.Rmd",
-  "understand.Rmd",
+
+  "explore.Rmd",
   "visualize.Rmd",
+  "workflow-basics.Rmd",
   "transform.Rmd",
-  "model.Rmd",
-  "variation.Rmd",
-  "work.Rmd",
+  "workflow-scripts.Rmd",
+  "EDA.Rmd",
+  "workflow-projects.Rmd",
+
+  "wrangle.Rmd",
+  "tibble.Rmd",
   "import.Rmd",
   "tidy.Rmd",
   "relational-data.Rmd",
   "strings.Rmd",
+  "factors.Rmd",
   "datetimes.Rmd",
+
   "program.Rmd",
   "pipes.Rmd",
   "functions.Rmd",
+  "vectors.Rmd",
   "iteration.Rmd",
-  "data-structures.Rmd",
-  "hierarchy.Rmd",
-  "science.Rmd",
-  "model-vis.Rmd",
-  "model-assess.Rmd",
+
+  "model.Rmd",
+  "model-basics.Rmd",
+  "model-building.Rmd",
+  "model-many.Rmd",
+
   "communicate.Rmd",
   "rmarkdown.Rmd",
-  "shiny.Rmd",
+  "communicate-plots.Rmd",
+  "rmarkdown-formats.Rmd",
+  "rmarkdown-workflow.Rmd",
 ]
 
 before_chapter_script: "_common.R"

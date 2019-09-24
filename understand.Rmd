@@ -1,3 +1,0 @@
-# Understand your data
-
-Data poses a cognitive problem; Data comprehension is a skill.
